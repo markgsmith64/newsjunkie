@@ -16,9 +16,9 @@ class HorizontalBarChart extends StatelessWidget {
         "labelText": " left 0%",
       },
       {
-        "units": 19,
+        "units": 22,
         "color": Colors.lightBlue,
-        "labelText": " center 19%",
+        "labelText": " center 22%",
       },
       {
         "units": 78,
