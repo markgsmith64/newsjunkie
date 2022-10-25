@@ -20,8 +20,7 @@ The positions of the labels above the horizontal bar graph are dependent upon va
 * Look at this TikTok clone ```https://github.com/salvadordeveloper/TikTok-Flutter```. TikTok has similar ui functionality and this project will be a great springboard for acccelerating the development of my own project.
 
 **Time spent so far:**
-* Up until commit ```https://github.com/markgsmith64/markdemoapp/commit/563412e0611473a384d6461f29a37bfd8c451fdf
-``` I had spent a total of roughly 18 hours on the project.
+* Up until commit ```https://github.com/markgsmith64/markdemoapp/commit/563412e0611473a384d6461f29a37bfd8c451fdf``` I had spent a total of roughly 18 hours on the project.
 
 ## Getting Started
 
