@@ -1,7 +1,7 @@
 # News Junkie Trial Project
 
 **Overview:**
-My personal flutter project - an app for the purpose of demonstraiting my skills as a Flutter developer. Only a small part of the app is complete at the moment but in time I will add more functionality and improve upon what is already there.
+My personal flutter project - an app for the purpose of demonstrating my skills as a Flutter developer. Only a small part of the app is complete at the moment but in time I will add more functionality and improve upon what is already there.
 
 **App description:**
 A user can try their hand at journalism. In their own words, they can create and upload a 30 second video clip of themselves reporting on a news item of their choice. Other users of the app can scroll through the uploaded videos and can rate, report or block the video.
