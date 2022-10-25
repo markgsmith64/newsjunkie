@@ -83,8 +83,7 @@ In Visual Studio Code, navigate to `Preferences` -> `Settings` and search for `F
 
 ### Libraries & Tools Used
 
-* [Dio] ```https://github.com/flutterchina/dio
-```
+* [Dio] ```https://github.com/flutterchina/dio```
 * [Json Serialization] ```https://github.com/dart-lang/json_serializable```
 * [Freezed] ```https://pub.dev/packages/freezed```
 * [Other stuff] ...
