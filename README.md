@@ -1,4 +1,4 @@
-# News Junkie Trial Project
+# News Junkie Trial Flutter Project
 
 **Overview:**
 My personal flutter project - an app for the purpose of demonstrating my skills as a Flutter developer. Only a small part of the app is complete at the moment but in time I will add more functionality and improve upon what is already there.
