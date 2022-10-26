@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 
-// courtesy of https://stackoverflow.com/users/13387399/gilbert-aligoey https://stackoverflow.com/questions/71281800/flutter-horizontal-bar-chart-stacked-in-one-bar-chart
+// used this as a starter https://stackoverflow.com/questions/71281800/flutter-horizontal-bar-chart-stacked-in-one-bar-chart
 
 class HorizontalBarChart extends StatelessWidget {
   const HorizontalBarChart({Key? key}) : super(key: key);
